@@ -1,0 +1,6 @@
+username = [ epiz_28658466 ]
+
+password =  [ Q1BIr81dJkey1gm ]
+
+domain = [ api-h.rf.gd ]
+
