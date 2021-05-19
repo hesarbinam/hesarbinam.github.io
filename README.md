@@ -4,6 +4,6 @@
 # ![ty](node.png)
 
 - [اعتبار سنجی فرم ها با جاوا اسکریپت](Install_Nodejs.md)
-<img with="100%" src="form.jpeg" alt="" />
+# ![ty](form.jpeg)
 
 </div>
